@@ -1,1 +1,2 @@
 Simple file for git repository
+git pull command changes 20 august
